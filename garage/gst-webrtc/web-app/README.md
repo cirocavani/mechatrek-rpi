@@ -3,7 +3,7 @@
 <https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/tree/0.13.5/net/webrtc/gstwebrtc-api>
 
 ```sh
-# PWD <- Project Home 'mechatrek-rpi/dev-projects/gst-webrtc/'
+# PWD <- Project Home 'mechatrek-rpi/garage/gst-webrtc/'
 
 sudo apt install --no-install-recommends nodejs npm
 
