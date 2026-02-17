@@ -1,3 +1,3 @@
-# Mechatrek - Raspberry Pi AI Project
+# The Book of the Machine - Raspberry Pi AI Project
 
 AI Project using RPi 5 SBC, Hugging Face Candle, GStreamer Framework, Eclipse Zenoh and K3s.
