@@ -3,6 +3,9 @@ members = [
   "mechatrek-rpi",
   "garage/*",
 ]
+exclude = [
+  "garage/scraps",
+]
 resolver = "3"
 
 [profile.release-lto]
